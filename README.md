@@ -68,10 +68,9 @@ How to run the application:
        Now the API and Database should be running
     2. Open Front-end Project and execute the npm start command on the command line
        Now the Front-end react project should be running on http://localhost:3000/
-       
-    3. 
+    
 
-API DOCUMENTATION :
+API DOCUMENTATION : https://documenter.getpostman.com/view/17897813/2s8ZDSckYQ
 
 
 
